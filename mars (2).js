@@ -5591,7 +5591,7 @@ MARS50.on("ready", () => { console.log( `Online In Servers` ); let statuses = [
 
 /// by mars
 
-MARS.login("");
+MARS.login("NzU5NDA1MTE3OTEyMjUyNDM3.X3Hj0A.f8j8FM3DEYYOfOi49V74O4jkMkg");
 MARS2.login("");
 MARS3.login("");
 MARS4.login("");
